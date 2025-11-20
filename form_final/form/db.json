@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "28dd",
+      "name": "Kunal Singhal",
+      "email": "kunalsinghal365@gmail.com",
+      "phone": "8630724603",
+      "country": "india",
+      "gender": "male",
+      "password": "Kunal12*#"
+    },
+    {
+      "id": "fbc4",
+      "name": "Kunal",
+      "email": "kunalsinghal121@gmail.com",
+      "phone": "8630724603",
+      "country": "usa",
+      "gender": "male",
+      "password": "kUNAL13*^"
+    }
+  ]
+}
